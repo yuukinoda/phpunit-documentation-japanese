@@ -131,11 +131,7 @@ todo_include_todos = False
 
 # -- Options for HTML output ----------------------------------------------
 
-html_theme = 'sphinx_rtd_theme'
-html_theme_options = {
-    'collapse_navigation': False,
-    'display_version': False
-}
+# html_theme = 'sphinx_rtd_theme'
 
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = ['_templates']
